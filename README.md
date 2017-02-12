@@ -1,6 +1,9 @@
 # Reprogrammer des boites noires
 ## Les hackers face à l'abstraction informatique et une omniprésente disparition du technique
 
+Elie GAVOTY, mémoire de recherche pour le Master LOPHISS 2015-2016 
+Texte et ses schéma sous licence 
+
 ### Abstract
 
 The hacker is an important although marginal figure in the history of computer technology. Hacker culture brings together in this technical domain political and creative approaches through unusual practices : hacking involve a particular relation to computer systems, between software creation and hijacking. Without minimizing the diversity and evolutive character of thoses practices, the aim of this work is to question how hacking reveals a pervasive tendency of technology to hide the operations and conditions of technical systems.
