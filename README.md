@@ -2,7 +2,8 @@
 ## Les hackers face à l'abstraction informatique et une omniprésente disparition du technique
 
 Elie GAVOTY, mémoire de recherche pour le Master LOPHISS 2015-2016 
-Texte et ses schéma sous licence 
+
+Texte et ses schéma sous licence CC-BY-NC-ND
 
 ### Abstract
 
